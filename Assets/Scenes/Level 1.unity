@@ -755,17 +755,17 @@ PrefabInstance:
     - target: {fileID: 8361374640922330792, guid: b17c4455f0219c844a1fd9cc0be1b014,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8810417032970916675, guid: b17c4455f0219c844a1fd9cc0be1b014,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8810417033431389406, guid: b17c4455f0219c844a1fd9cc0be1b014,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1934193266515744619, guid: b17c4455f0219c844a1fd9cc0be1b014,
         type: 3}
